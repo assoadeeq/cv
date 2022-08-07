@@ -1,0 +1,27 @@
+h1 {
+    color: #68918a;
+    padding-left: 5%;
+}
+h2 {
+    color: #66BFbF;
+}
+legend {
+    color: aqua;
+}
+label {
+    color: grey;
+}
+fieldset {
+    width: 400px;
+    border-width: 7px;
+    border-color: rgb(226, 226, 171);
+    
+}
+
+fieldset fieldset{
+    border-width: 5px;
+}
+input {
+    border: 4%;
+    color: black;
+}
